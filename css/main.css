@@ -164,6 +164,79 @@ textarea {
                 color: #ffffff;
             }
 
+            .avgRentalContainer {
+                margin: -77px 0px 0px 98px;
+                padding-left: 10px;
+                padding-top: 20px;
+                background-color: #546E7A;
+                height: 58px;
+
+
+            }
+
+            .avgRentalPrice {
+                font-family: 'Open Sans', sans-serif;
+                font-size: 20px;
+                font-weight: 300;
+                color: #B2FF59;
+
+            }
+
+            .avgRentalDescriptor {
+                font-family: 'Open Sans', sans-serif;
+                font-size: 9px;
+                font-weight: 300;
+                color: #FFFFFF;
+            }
+
+            .availableListingContainer {
+                margin: -77px 0px 0px 98px;
+                padding-left: 90px;
+                padding-top: 20px;
+                background-color: #546E7A;
+                height: 58px;
+            }
+
+            .availableListingDescriptor {
+                font-family: 'Open Sans', sans-serif;
+                font-size: 9px;
+                font-weight: 300;
+                color: #FFFFFF;
+            }
+
+
+            .availableListingNumber {
+                font-family: 'Open Sans', sans-serif;
+                font-size: 20px;
+                font-weight: 300;
+                color: #FFFFFF;
+            }
+
+            .distanceContainer {
+                margin: -77px 0px 0px 98px;
+                padding-left: 145px;
+                padding-top: 20px;
+                background-color: #546E7A;
+                height: 58px;
+            }
+
+            .distanceDescriptor {
+                font-family: 'Open Sans', sans-serif;
+                font-size: 9px;
+                font-weight: 300;
+                color: #FFFFFF;
+            }
+            .distanceFromCity {
+                font-family: 'Open Sans', sans-serif;
+                font-size: 20px;
+                font-weight: 300;
+                color: #FFFFFF;
+            }
+
+
+
+
+
 
                     /* ==========================================================================
                      Fonts
