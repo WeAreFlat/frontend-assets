@@ -110,7 +110,7 @@
             position: relative;
           width:100%;
           padding: 20px;
-          background-color: pink;
+     
       }
 
       .homePosition {
@@ -243,6 +243,48 @@
         font-weight: 300;
         color: #FFFFFF;
     }
+
+        .statHeading {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 10px;
+        font-weight: 300;
+        color: #BBDEFB;
+    }
+
+        .populationGrowthValue {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 15px;
+        font-weight: 300;
+        color: #FFFFFF;
+    }
+
+        .householdIncomeValue {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 15px;
+        font-weight: 300;
+        color: #FFFFFF;
+    }    
+        .medianAgeValue {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 15px;
+        font-weight: 300;
+        color: #FFFFFF;
+    }
+        .internetAccessValue {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 15px;
+        font-weight: 300;
+        color: #FFFFFF;
+    }    
+        .distanceToCityValue {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 15px;
+        font-weight: 300;
+        color: #FFFFFF;
+    }   
+
+     
+        
 
 
 
