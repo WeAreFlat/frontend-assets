@@ -116,6 +116,7 @@ body {
 .mobileView {
     position: relative;
     width: 100%;
+    max-width: 1200px;
     height: calc(100vh - 55px); /* 100 of height, minus divs padding to prevent scrolling */
     min-height: 400px;
 }
