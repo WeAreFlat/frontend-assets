@@ -109,6 +109,7 @@ textarea {
 
 body {
     background-color: #2c4856;
+    color: #fff;
     padding: 20px;
     box-sizing: border-box;
 }
@@ -273,16 +274,7 @@ body {
     line-height: 30px;
 }
 
-        .statHeading {
-        font-size: 12px;
-        font-weight: 300;
-        color: #BBDEFB;
-            padding: 10px 0
-    }
 
-    .keyStats {
-        width: 100%;
-    }
 
         .populationGrowthValue {
         font-family: 'Open Sans', sans-serif;
@@ -343,10 +335,19 @@ body {
 
 
 
+        .statHeading {
+        font-size: 12px;
+        font-weight: 300;
+        color: #BBDEFB;
+        padding: 10px 0;
+    }
 
-
-
-
+    .keyStats {
+        width: 100%;
+        padding: 10px;
+        overflow: hidden;
+        margin-bottom: 15px;
+    }
 .statContainer {
     float: left;
     width: 20%;
@@ -359,8 +360,43 @@ body {
     min-width: 25px;
     max-width: 45px;
 }
+.suburbMainInfo {
+    clear: both;
+    width: 100%;
+    height: 75px;
+    border: 1px solid grey;
+    border-radius: 3px;
+    padding: 15px 15px;
+    box-sizing: border-box;
+    margin: 10px 0;
 
+}
+.suburbMainInfo img {
+    float: left;
+    padding-right: 10px;
+}
 
+.suburbMainInfo div:nth-child(2) {
+    color: limegreen;
+    font-size: 28px;
+    font-weight: lighter;
+}
+.suburbMainInfo div:nth-child(3) {
+    color: #fff;
+    font-size: 10px;
+    font-weight: lighter;
+}
+.availableListing {
+    clear: both;
+    width: 100%;
+    height: 70px;
+    border: 1px solid grey;
+    border-radius: 3px;
+    padding: 15px 15px;
+    box-sizing: border-box;
+    margin: 5px 0;
+
+}
 /* ==========================================================================
                      Positions
 ========================================================================== */
