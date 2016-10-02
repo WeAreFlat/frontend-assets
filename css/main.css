@@ -387,15 +387,14 @@ body {
     font-weight: lighter;
 }
 .availableListing {
-    clear: both;
-    width: 100%;
+    float: left;
+    width: 50%;
     height: 70px;
     border: 1px solid grey;
     border-radius: 3px;
     padding: 15px 15px;
     box-sizing: border-box;
     margin: 5px 0;
-
 }
 /* ==========================================================================
                      Positions
