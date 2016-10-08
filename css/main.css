@@ -21,9 +21,7 @@
  * Customize the background color to match your design.
  */
 
-html {
-
-}
+html {}
 
 ::-moz-selection {
     background: #b3d4fc;
@@ -118,7 +116,8 @@ body {
     position: relative;
     width: 100%;
     max-width: 800px;
-    height: calc(100vh - 55px); /* 100 of height, minus divs padding to prevent scrolling */
+    height: calc(100vh - 55px);
+    /* 100 of height, minus divs padding to prevent scrolling */
     min-height: 400px;
 }
 
@@ -155,6 +154,7 @@ body {
     max-width: 250px;
     display: inline-block;
 }
+
 .moneyHeading {
     font-family: 'Open Sans', sans-serif;
     font-size: 12px;
@@ -163,12 +163,11 @@ body {
     line-height: 30px;
     margin-top: 6px;
 }
+
 .minMax {
     width: 100%;
     max-width: 500px;
 }
-
-
 
 .listingCard {
     background-color: #607D8B;
@@ -178,10 +177,10 @@ body {
     margin-top: 1px;
     transition: margin-left 0.2s ease;
 }
+
 .listingCard:hover {
     margin-left: 10px;
 }
-
 
 .listingTitle {
     padding: 28px 0px 30px 15px;
@@ -279,42 +278,42 @@ body {
     line-height: 30px;
 }
 
+.populationGrowthValue {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    color: #FFFFFF;
+}
 
+.householdIncomeValue {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    color: #FFFFFF;
+}
 
-        .populationGrowthValue {
-        font-family: 'Open Sans', sans-serif;
-        font-size: 15px;
-        font-weight: 300;
-        color: #FFFFFF;
-    }
+.medianAgeValue {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    color: #FFFFFF;
+}
 
-        .householdIncomeValue {
-        font-family: 'Open Sans', sans-serif;
-        font-size: 15px;
-        font-weight: 300;
-        color: #FFFFFF;
-    }    
-        .medianAgeValue {
-        font-family: 'Open Sans', sans-serif;
-        font-size: 15px;
-        font-weight: 300;
-        color: #FFFFFF;
-    }
-        .internetAccessValue {
-        font-family: 'Open Sans', sans-serif;
-        font-size: 15px;
-        font-weight: 300;
-        color: #FFFFFF;
-    }    
-        .distanceToCityValue {
-        font-family: 'Open Sans', sans-serif;
-        font-size: 15px;
-        font-weight: 300;
-        color: #FFFFFF;
-    }   
+.internetAccessValue {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    color: #FFFFFF;
+}
 
-     
-        .queryStyle {
+.distanceToCityValue {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    color: #FFFFFF;
+}
+
+.queryStyle {
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     font-weight: 300;
@@ -332,39 +331,39 @@ body {
     border-radius: 3px;
     border: none;
 }
+
 .buttonStyle:hover {
-
     background: #607884;
-
 }
 
+.statHeading {
+    font-size: 12px;
+    font-weight: 300;
+    color: #BBDEFB;
+    padding: 10px 0;
+}
 
+.keyStats {
+    width: 100%;
+    padding: 10px;
+    overflow: hidden;
+    margin-bottom: 15px;
+}
 
-        .statHeading {
-        font-size: 12px;
-        font-weight: 300;
-        color: #BBDEFB;
-        padding: 10px 0;
-    }
-
-    .keyStats {
-        width: 100%;
-        padding: 10px;
-        overflow: hidden;
-        margin-bottom: 15px;
-    }
 .statContainer {
     float: left;
     width: 20%;
     padding: 0 5px;
     box-sizing: border-box;
 }
+
 .statIcon {
     height: 50px;
     width: 40%;
     min-width: 25px;
     max-width: 45px;
 }
+
 .suburbMainInfo {
     clear: both;
     width: 100%;
@@ -374,8 +373,8 @@ body {
     padding: 15px 15px;
     box-sizing: border-box;
     margin: 10px 0;
-
 }
+
 .suburbMainInfo img {
     float: left;
     padding-right: 10px;
@@ -386,19 +385,22 @@ body {
     font-size: 28px;
     font-weight: lighter;
 }
+
 .suburbMainInfo div:nth-child(3) {
     color: #fff;
     font-size: 10px;
     font-weight: lighter;
 }
+
 .tmData {
     width: 50%;
     float: left;
 }
+
 .mobileView .tmData:nth-child(1) {
     /* not working atm. To be padding between the columns */
-
 }
+
 .availableListing {
     float: left;
     width: 100%;
@@ -408,8 +410,9 @@ body {
     padding: 15px 15px;
     box-sizing: border-box;
     margin: 5px 0;
-
 }
+
+
 /* ==========================================================================
                      Positions
 ========================================================================== */
