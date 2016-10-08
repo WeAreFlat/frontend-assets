@@ -442,6 +442,19 @@ body {
     margin-top: 10px;
 }
 
+.map {
+    display: none;
+    width: 100%;
+    background-color: aqua;
+    
+}
+
+@media screen and (min-device-width: 1200px) {
+    .map {
+        display: inline;
+    }
+}
+
 
 /* ==========================================================================
    Helper classes
