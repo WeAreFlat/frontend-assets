@@ -360,7 +360,7 @@ body {
     box-sizing: border-box;
 }
 .statIcon {
-    height: auto;
+    height: 50px;
     width: 40%;
     min-width: 25px;
     max-width: 45px;
