@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64"><g  transform="translate(0, 0)">
+<polyline data-cap="butt" fill="none" stroke="#ffffff" stroke-width="4" stroke-miterlimit="10" points="36.5,42 4,42 4,16 60,16 &#10;&#9;60,42 54,42 "/>
+<path fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" d="M16,16v-6c0-2.2,1.8-4,4-4&#10;&#9;h0c2.2,0,4,1.8,4,4v6"/>
+<path fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" d="M24,16V8c0-2.2,1.8-4,4-4h0&#10;&#9;c2.2,0,4,1.8,4,4v8"/>
+<path fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" d="M32,16V6c0-2.2,1.8-4,4-4h0&#10;&#9;c2.2,0,4,1.8,4,4v10"/>
+<path fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" d="M40,16V8c0-2.2,1.8-4,4-4h0&#10;&#9;c2.2,0,4,1.8,4,4v8"/>
+<circle data-color="color-2" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" cx="32" cy="29" r="5"/>
+<line data-color="color-2" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" x1="20" y1="24" x2="12" y2="24"/>
+<path fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" d="M16,42v1&#10;&#9;c0,10.5,8.5,19,19,19h0c10.5,0,19-8.5,19-19v-1V24c-4.5,0-8,3.5-8,8v6c-6.2,0-12,4.3-12,10"/>
+</g></svg>

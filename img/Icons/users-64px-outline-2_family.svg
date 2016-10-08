@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64"><g  transform="translate(0, 0)">
+<polyline data-cap="butt" data-color="color-2" fill="none" stroke="#ffffff" stroke-width="4" stroke-miterlimit="10" points="2,22 32,6 62,22 "/>
+<circle fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" cx="50" cy="36" r="6"/>
+<circle fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" cx="14" cy="36" r="6"/>
+<path fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" d="M26,56v-1.965&#10;&#9;c0-1.42-0.745-2.726-1.967-3.449C22.088,49.435,18.716,48,14,48c-4.777,0-8.127,1.426-10.052,2.575C2.736,51.299,2,52.601,2,54.013&#10;&#9;V56H26z"/>
+<path fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" d="M62,56v-1.965&#10;&#9;c0-1.42-0.745-2.726-1.967-3.449C58.088,49.435,54.716,48,50,48c-4.777,0-8.127,1.426-10.052,2.575&#10;&#9;C38.736,51.299,38,52.601,38,54.013V56H62z"/>
+</g></svg>
