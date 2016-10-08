@@ -403,7 +403,11 @@ body {
 
 .availableListing {
     float: left;
+<<<<<<< HEAD
     width: 100%;
+=======
+    width: 50%;
+>>>>>>> 21d1b6a7a4952e63f828c7d0bd5fef2f5bf3e825
     height: 70px;
     border: 1px solid grey;
     border-radius: 3px;
