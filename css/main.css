@@ -21,7 +21,11 @@
  * Customize the background color to match your design.
  */
 
-html {}
+html {
+    @import 'https://fonts.googleapis.com/css?family=Open+Sans:300,400,700';
+    font-family: 'Open Sans', sans-serif;
+
+}
 
 ::-moz-selection {
     background: #b3d4fc;
@@ -108,17 +112,20 @@ textarea {
 body {
     background-color: #2c4856;
     color: #fff;
+    font-family: 'Open Sans', sans-serif;
+
 }
 
 .mobileView {
     position: relative;
     width: 100%;
     max-width: 800px;
+    min-width: 400px;
     height: calc(100vh - 55px);
     /* 100 of height, minus divs padding to prevent scrolling */
     min-height: 400px;
     padding: 20px;
-    box-sizing: border-box;
+    box-sizing: border-box; /* 100 of height, minus divs padding to prevent scrolling */
 }
 
 .homePosition {
@@ -388,10 +395,23 @@ body {
 
 .suburbMainInfo div:nth-child(3) {
     color: #fff;
-    font-size: 10px;
+    font-size: 12px;
     font-weight: lighter;
 }
-
+.tmData img {
+    float: left;
+    padding-right: 10px;
+}
+.tmData div:nth-child(2) {
+    color: limegreen;
+    font-size: 28px;
+    font-weight: lighter;
+}
+.tmData div:nth-child(3) {
+    color: #fff;
+    font-size: 12px;
+    font-weight: lighter;
+}
 .tmData {
     width: 50%;
     float: left;
@@ -403,11 +423,7 @@ body {
 
 .availableListing {
     float: left;
-<<<<<<< HEAD
     width: 100%;
-=======
-    width: 50%;
->>>>>>> 21d1b6a7a4952e63f828c7d0bd5fef2f5bf3e825
     height: 70px;
     border: 1px solid grey;
     border-radius: 3px;
