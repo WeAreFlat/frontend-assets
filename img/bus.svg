@@ -1,0 +1,19 @@
+
+<svg width="28px" height="33px" viewBox="13 15 28 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Bus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(14.711858, 16.767620)">
+        <g id="Group" stroke="#FFFFFF" stroke-width="2">
+            <path d="M12.1655746,17.1741077 L16.8966314,12.5503095" id="Shape"></path>
+            <path d="M24.3311492,17 L0,17" id="Shape"></path>
+            <path d="M0,6 L24.3311492,6" id="Shape"></path>
+            <polyline id="Shape" points="6.08278729 25.100619 6.08278729 29.0638746 1.35173051 29.0638746 1.35173051 25.100619"></polyline>
+            <polyline id="Shape" points="22.9794187 25.100619 22.9794187 29.0638746 18.2483619 29.0638746 18.2483619 25.100619"></polyline>
+            <path d="M24.3311492,25.100619 L0,25.100619 L0,2.64217042 C0,1.18897669 1.21655746,0 2.70346102,0 L21.6276882,0 C23.1145917,0 24.3311492,1.18897669 24.3311492,2.64217042 L24.3311492,25.100619 L24.3311492,25.100619 Z" id="Shape"></path>
+            <path d="M10.8138441,3 L13.5173051,3" id="Shape"></path>
+            <path d="M3.37932627,21 L6.08278729,21" id="Shape"></path>
+            <path d="M18.2483619,21 L20.9518229,21" id="Shape"></path>
+        </g>
+    </g>
+</svg>
