@@ -415,6 +415,8 @@ body {
 .tmData {
     width: 50%;
     float: left;
+    padding: 10px;
+    box-sizing: border-box;
 }
 
 .mobileView .tmData:nth-child(1) {
@@ -430,6 +432,11 @@ body {
     padding: 15px 15px;
     box-sizing: border-box;
     margin: 5px 0;
+}
+.listingButton {
+    width: 100%;
+    height: 50px;
+    margin-top: 20px;
 }
 
 
@@ -453,8 +460,6 @@ body {
 .titleButtonPosition {
     width: 200px;
     height: 50px;
-    /*                        margin-left: 20px;
-*/
     margin-top: 20px;
 }
 
