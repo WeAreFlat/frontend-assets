@@ -1,0 +1,11 @@
+
+<svg width="62px" height="59px" viewBox="20 16 62 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(21.000000, 18.000000)">
+        <polyline id="Shape" stroke="#FFFFFF" stroke-width="2" points="0 16 30 0 60 16"></polyline>
+        <path d="M48,56 L12,56 L12,51.517 C12,47.967 14.328,44.848 17.733,43.84 C20.92,42.896 25.208,42 30,42 C34.713,42 39.027,42.911 42.25,43.864 C45.661,44.872 48,47.989 48,51.546 L48,56 L48,56 Z" id="Shape" stroke="#FFFFFF" stroke-width="2"></path>
+        <path d="M20,24 C20,18.477 24.477,14 30,14 C35.523,14 40,18.477 40,24 C40,29.523 35.523,36 30,36 C24.477,36 20,29.523 20,24 L20,24 Z" id="Shape" stroke="#FFFFFF" stroke-width="2"></path>
+    </g>
+</svg>

@@ -28,39 +28,42 @@
 </head>
 
 <body>
+    <div class="overlay"></div>
     <div class="modal startScreen">
         <div class="homePosition">
             <div class="mainTitle">Find your place in
                 <br> Auckland with Flattie.</div>
-            <div class="mainDescription descriptionPosition">Touch a suburb to learn more.
-                <br>Lighter colored suburbs are cheaper.</div>
+            <div class="mainDescription">Click on a suburb to learn more.
+                <br>Lighter colored suburbs are cheaper to rent.</div>
             <button class="buttonStyle titleButtonPosition dropShadow" id="start">Get Started</button>
         </div>
     </div>
 
     <div class="modal stats">
-        <div class="mainTitle queryTitlePosition listingHeadingMargin">Orakei Stats</div>
-        <div class="keyStats">
+        <button class="buttonStyle closeBtn dropShadow" id="close">close</button>
+        <div class="mainTitle queryTitlePosition listingHeadingMargin">Orakei</div>
 
-        </div>
         <div class="suburbMainInfo">
-            <img src="img/people.svg" width="50px" height="100%">
+            <img src="img/cash_hand.svg" width="65px" height="100%">
             <div>$220</div>
             <div>Average Asking Price Per Room</div>
         </div>
-        <div class="suburbMainInfo">
-            <img src="img/bus.svg" width="50px" height="100%">
-            <div>16</div>
-            <div>Looking For Flatmates</div>
+        <div class="availableFlats">
+            <div class="suburbMainInfo">
+                <img src="img/two_people_house.svg" width="65px" height="100%">
+                <div>16</div>
+                <div>Looking For Flatmates</div>
+            </div>
+            <button class="buttonStyle tmButton  dropShadow">View Flatmate Listings</button>
         </div>
-        <button class="buttonStyle tmButton  dropShadow1">View Flatmate Listings</button>
-        <div class="suburbMainInfo">
-            <img src="img/people.svg" width="50px" height="100%">
-            <div>35</div>
-            <div>Available Rentals</div>
+        <div class="availableRentals">
+            <div class="suburbMainInfo">
+                <img src="img/person_house.svg" width="65px" height="100%">
+                <div>35</div>
+                <div>Available Rentals</div>
+            </div>
+            <button class="buttonStyle tmButton  dropShadow">View Rental Listings</button>
         </div>
-        <button class="buttonStyle tmButton  dropShadow1">View Rental Listings</button>
-
     </div>
 
 
@@ -68,13 +71,13 @@
         <p>Average rent per room (July 2016)</p>
         <div id="gradScale">
             <div class="scaleLine">
-                <p>$100</p>
+                <p>$140</p>
             </div>
             <div class="scaleLine">
-                <p>$250</p>
+                <p>$380</p>
             </div>
             <div class="scaleLine">
-                <p>$400</p>
+                <p>$260</p>
             </div>
             <!--            <p id="startPrice">$140</p>-->
         </div>

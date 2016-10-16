@@ -269,12 +269,11 @@ body {
                      ========================================================================== */
 
 .mainTitle {
-    font-family: 'Open Sans', sans-serif;
     font-size: 27px;
     font-weight: 700;
     color: #ffffff;
     margin-bottom: 10px;
-    padding: 20px 0 0 0;
+    padding: 20px 0 20px 0;
 }
 
 .mainDescription {
